@@ -1,4 +1,4 @@
-[LeetCode](https://leetcode.com/farazzz_siddiqui/)
+[LeetCode](https://leetcode.com/farazxsiddiqui/)
 
 Here are the solutions of the problems that I solve on LeetCode.
 
